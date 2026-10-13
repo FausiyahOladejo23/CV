@@ -1,0 +1,19 @@
+The five resume issues
+1. Weak, vague achievement statements
+Examples:
+- “Maintained so many customer satisfaction rating…”
+- “Boosted team efficiency by a high rate…”
+These phrases are vague and grammatically incorrect. A resume should communicate achievements clearly and, where possible, quantify them.
+Correction: Use specific, measurable statements, such as “Improved customer satisfaction by developing software solutions based on client requirements”—but only include a percentage if it can be verified.
+2. Poor grammar and word choice
+Phrases such as “Hastened human resources processes” and “by a high rate, by providing direction” sound awkward or unprofessional.
+Correction: Use clear, direct language, for example, “Reduced HR processing time by 80% by developing a cloud-based information system.”
+3. Inconsistent or unclear formatting
+The resume uses a two-column layout, with work experience, skills, and affiliations positioned alongside one another. Some entries and descriptions appear awkwardly spaced or separated, which may affect readability and how applicant tracking systems (ATS) parse the information.
+Correction: Use consistent headings, spacing, bullet points, dates, and alignment. A simple, single-column format is often safer for ATS compatibility.
+4. Irrelevant or insufficiently detailed experience descriptions
+The internship description mainly says the candidate “learned about” the software programming team’s operations. This does not explain what the candidate actually contributed.
+Correction: Describe specific tasks, technologies used, and outcomes. For example, “Coordinated project updates between software development and other departments,” if that accurately reflects the work.
+5. Education and dates need clarification
+The resume lists a bachelor's degree with a graduation year of 2021, while the work history shows an internship beginning in October 2021. This timeline is possible, but the education and employment dates should be clear and consistent. The resume also lists achievements and affiliations without dates or much context.
+Correction: Use a consistent date format and add dates or brief details to relevant achievements and affiliations where appropriate.
